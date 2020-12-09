@@ -1,2 +1,2 @@
-# neural_networks
+# Neural Networks
 project created as part of the internship
